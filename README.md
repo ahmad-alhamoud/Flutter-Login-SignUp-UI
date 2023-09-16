@@ -1,6 +1,4 @@
 # Flutter-Login-SignUp-UI
-![Uploading ui desaign.png…]()
-
 
 Desaign: https://bit.ly/3aQf66x
 
